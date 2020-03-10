@@ -11,8 +11,8 @@ This project is testing the LinkedIn Search bar.
 ## Setup
 
 ```Terminal
-git clone https://github.com/abadri/jest-puppeteer-bootstrap.git
-cd jest-puppeteer-bootstrap
+git clone https://github.com/Nandini1212/LinkedTestingTest.git
+cd LinkedCodingTest
 yarn install
 ```
 
